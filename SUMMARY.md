@@ -13,9 +13,9 @@
         * [* 注入 (Injection)](.md)
             * todo 构造方法 循环依赖和属性inject循环依赖对比
         * 绑定 (Binding)
-            * [Binding (Binding)](Content/Binding.md)
+            * [绑定 (Binding)](Content/binding.md)
             * 构造方法 (Construction Methods)
-        * 安装程序 (Installers)
+        * [安装程序 (Installers)](Content/installers.md)
         * 使用没有MonoBehaviour的类 (Using Non-MonoBehaviour Classes)
             * ITickable
             * IInitializable
