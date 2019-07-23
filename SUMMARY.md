@@ -17,7 +17,7 @@
             * 构造方法 (Construction Methods)
         * [安装程序 (Installers)](Content/installers.md)
         * 使用没有MonoBehaviour的类 (Using Non-MonoBehaviour Classes)
-            * ITickable
+            * [ITickable](itickable.md)
             * IInitializable
             * IDisposable
             * BindInterfacesTo and BindInterfacesAndSelfTo
