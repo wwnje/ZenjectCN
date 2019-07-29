@@ -19,7 +19,7 @@
         * 使用没有MonoBehaviour的类 (Using Non-MonoBehaviour Classes)
             * [ITickable](Content/itickable.md)
             * [IInitializable](Content/IInitializable.md)
-            * IDisposable
+            * [IDisposable](Content/IDisposable.md)
             * BindInterfacesTo and BindInterfacesAndSelfTo
             * Using the Unity Inspector To Configure Settings
         * Object Graph Validation
