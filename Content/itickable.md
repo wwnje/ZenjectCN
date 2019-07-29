@@ -20,7 +20,7 @@ public class Ship : ITickable
 Container.Bind<ITickable>().To<Ship>().AsSingle();
 ```
 
-或者，如果您不想总是记住您的类实现了哪些接口，则可以使用[此处](indInterfacesTo-and-BindInterfacesAndSelfTo.md)描述的快捷方式
+或者，如果您不想总是记住您的类实现了哪些接口，则可以使用[此处](BindInterfacesTo-and-BindInterfacesAndSelfTo.md)描述的快捷方式
 
 请注意，所有ITickables调用Tick()的顺序也是可配置的，如[此处](update--initialization-order.md)所述。
 

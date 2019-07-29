@@ -20,7 +20,7 @@
             * [ITickable](Content/itickable.md)
             * [IInitializable](Content/IInitializable.md)
             * [IDisposable](Content/IDisposable.md)
-            * BindInterfacesTo and BindInterfacesAndSelfTo
+            * [BindInterfacesTo and BindInterfacesAndSelfTo](Content/BindInterfacesTo-and-BindInterfacesAndSelfTo.md)
             * Using the Unity Inspector To Configure Settings
         * Object Graph Validation
         * Scene Bindings
