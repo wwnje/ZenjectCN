@@ -17,8 +17,8 @@
             * 构造方法 (Construction Methods)
         * [安装程序 (Installers)](Content/installers.md)
         * 使用没有MonoBehaviour的类 (Using Non-MonoBehaviour Classes)
-            * [ITickable](itickable.md)
-            * IInitializable
+            * [ITickable](Content/itickable.md)
+            * [IInitializable](Content/IInitializable.md)
             * IDisposable
             * BindInterfacesTo and BindInterfacesAndSelfTo
             * Using the Unity Inspector To Configure Settings
