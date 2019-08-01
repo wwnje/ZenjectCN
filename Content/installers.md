@@ -53,6 +53,6 @@ public class FooInstaller : MonoInstaller
 
 3. **Resources文件夹中的预制件**.  您还可以将安装程序预制件放在Resoures文件夹下，并使用Resoures路径直接从代码中安装它们。有关使用的详细信息，请参[见此](runtime-parameters-for-installers.md)
 
-除`MonoInstaller`和`Installer<>`之外的另一个选项是使用`ScriptableObjectInstaller`，它具有一些独特的优点（特别是对于设置(settings)） - 详情请参见[此处](scriptableobject-installer.md)。 
+除`MonoInstaller`和`Installer<>`之外的另一个选项是使用`ScriptableObjectInstaller`，它具有一些独特的优点（特别是对于设置(settings)） - 详情请参见[此处](scriptableobject-installer.md)
 
-从其他安装程序调用安装程序时，通常需要将参数传递给它。有关如何完成的详细信息，请参见[此处](runtime-parameters-for-installer.md)。
+从其他安装程序调用安装程序时，通常需要将参数传递给它。有关如何完成的详细信息，请参见[此处](runtime-parameters-for-installers.md)。
