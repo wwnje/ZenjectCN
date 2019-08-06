@@ -11,8 +11,6 @@
     * Zenject API
         * [* Hello World Example](.md)
         * [* 注入 (Injection)](.md)
-            * todo 构造方法 循环依赖和属性inject循环依赖对比
-        * 绑定 (Binding)
             * [绑定 (Binding)](Content/binding.md)
             * [* 构造方法 (Construction Methods)](.md)
         * [安装程序 (Installers)](Content/installers.md)
@@ -23,7 +21,7 @@
             * [BindInterfacesTo and BindInterfacesAndSelfTo](Content/BindInterfacesTo-and-BindInterfacesAndSelfTo.md)
             * [* Using the Unity Inspector To Configure Settings](.md)
         * [对象图验证(Object Graph Validation)](Content/object-graph-validation.md)
-        * [* Scene Bindings](.md)
+        * [场景绑定(Scene Bindings)](Content/scene-bindings.md)
         * [* General Guidelines / Recommendations / Gotchas / Tips and Tricks](.md)
         * [* Further Reading](.md)
 * 高级 (Advanced)
