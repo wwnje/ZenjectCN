@@ -19,7 +19,7 @@
             * [IInitializable](Content/IInitializable.md)
             * [IDisposable](Content/IDisposable.md)
             * [BindInterfacesTo and BindInterfacesAndSelfTo](Content/BindInterfacesTo-and-BindInterfacesAndSelfTo.md)
-            * [* Using the Unity Inspector To Configure Settings](.md)
+            * [Using the Unity Inspector To Configure Settings](Content/using-the-unity-inspector-to-configure-settings.md)
         * [对象图验证(Object Graph Validation)](Content/object-graph-validation.md)
         * [场景绑定(Scene Bindings)](Content/scene-bindings.md)
         * [* General Guidelines / Recommendations / Gotchas / Tips and Tricks](.md)
