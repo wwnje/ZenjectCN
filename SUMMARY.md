@@ -7,7 +7,7 @@
 * 基础介绍
     * 什么是依赖注入
         * [理论](Content/theory.md)
-        * [* 误区](.md)
+        * [误区](Content/misconceptions.md)
     * Zenject API
         * [Hello World Example](Content/hello-world-example.md)
         * [注入 (Injection)](Content/injection.md)
