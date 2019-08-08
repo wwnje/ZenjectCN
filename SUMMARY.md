@@ -10,7 +10,7 @@
         * [* 误区](.md)
     * Zenject API
         * [Hello World Example](Content/hello-world-example.md)
-        * [* 注入 (Injection)](.md)
+        * [注入 (Injection)](Content/injection.md)
             * [绑定 (Binding)](Content/binding.md)
             * [* 构造方法 (Construction Methods)](.md)
         * [安装程序 (Installers)](Content/installers.md)
