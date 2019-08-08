@@ -12,7 +12,7 @@
         * [Hello World Example](Content/hello-world-example.md)
         * [注入 (Injection)](Content/injection.md)
             * [绑定 (Binding)](Content/binding.md)
-            * [* 构造方法 (Construction Methods)](.md)
+            * [构造方法 (Construction Methods)](Content/construction-methods.md)
         * [安装程序 (Installers)](Content/installers.md)
         * 使用没有MonoBehaviour的类
             * [ITickable](Content/itickable.md)
